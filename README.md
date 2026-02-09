@@ -18,3 +18,6 @@ Work in progress. Actively improving gameplay logic , enemy behavior, & overall 
 ## Learning Source
 Developed by following beginner Unreal engine tutorials & extending the logic
 to understand core 3D gameplay systems.
+
+## Goal
+To build a complete playable 3D shooter while improving Unreal Engine fundamentals.
